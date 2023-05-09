@@ -7,7 +7,7 @@
 
 #include "delay_my.h"
 
-uint32_t SysTick_Counter;
+uint32_t SysTick_Counter = 0;
 
 
 
